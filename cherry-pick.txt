@@ -2,4 +2,6 @@
 
 "This sentence represents the second commit in the tutorial, the one to be cherry-picked."
 -----------------------------------------------------------------------------------------
-new change 
+new change
+-------------------------------------------------------------------------------------------'
+Now i got it wht cherry pick means  
